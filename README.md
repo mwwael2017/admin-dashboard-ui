@@ -9,7 +9,7 @@ This project serves as a comprehensive portfolio piece showcasing the ability to
 
 ## 🚀 Live Demo
 
-[**View Live Demo**](https://ornate-salamander-20b6af.netlify.app) *(Link to your hosted demo)*
+[**View Live Demo**](https://admin-dashboard-20b6af.netlify.app/) *(Link to your hosted demo)*
 
 ---
 
