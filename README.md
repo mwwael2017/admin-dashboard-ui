@@ -17,7 +17,7 @@ This project serves as a comprehensive portfolio piece showcasing the ability to
 
 | Dashboard Overview | Analytics & Data |
 |:---:|:---:|
-| ![Dashboard Overview](assets/screenshots/dashboard-preview.png) | ![Analytics Page](assets/screenshots/analytics-preview.png) |
+| ![Dashboard Overview](https://i.postimg.cc/3x2KpKVZ/image.png) | ![Analytics Page](assets/screenshots/analytics-preview.png) |
 | *Responsive layouts with KPI cards and charts* | *Data visualization and reporting views* |
 
 | Mobile Responsive | Dark/Light Mode |
