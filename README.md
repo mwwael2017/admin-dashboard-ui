@@ -22,7 +22,7 @@ This project serves as a comprehensive portfolio piece showcasing the ability to
 
 | Mobile Responsive | Dark/Light Mode |
 |:---:|:---:|
-| ![Mobile View](assets/screenshots/mobile-preview.png) | ![Theme Toggle](assets/screenshots/theme-preview.png) |
+| ![Mobile View](https://i.postimg.cc/JzTWjGKT/image.png) | ![Theme Toggle](assets/screenshots/theme-preview.png) |
 | *Optimized for all viewport sizes* | *Seamless theme switching support* |
 
 *(Note: Replace placeholder paths with actual screenshots)*
