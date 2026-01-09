@@ -1,4 +1,4 @@
-# Modern Admin Dashboard Portfolio
+<img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/b7234324-80ba-4f3b-96ed-cd0b585fd02b" /># Modern Admin Dashboard Portfolio
 
 ![Project Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
@@ -17,7 +17,7 @@ This project serves as a comprehensive portfolio piece showcasing the ability to
 
 | Dashboard Overview | Analytics & Data |
 |:---:|:---:|
-| ![Dashboard Overview](https://i.postimg.cc/3x2KpKVZ/image.png) | ![Analytics Page](assets/screenshots/analytics-preview.png) |
+| ![Dashboard Overview](https://i.postimg.cc/3x2KpKVZ/image.png) | ![Analytics Page](https://i.postimg.cc/0jJgsnqp/image.png) |
 | *Responsive layouts with KPI cards and charts* | *Data visualization and reporting views* |
 
 | Mobile Responsive | Dark/Light Mode |
